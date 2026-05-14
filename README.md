@@ -98,7 +98,7 @@ Data Layer (FirebaseService, OpenRouterService)
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/channapatna-toys.git
+   git clone https://github.com/Naveen2267/channapatna-toys.git
    cd channapatna-toys
    ```
 
