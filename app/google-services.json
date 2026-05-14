@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152955551907",
+    "project_id": "channapatna-toys",
+    "storage_bucket": "channapatna-toys.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152955551907:android:432b3db2780b5a98e33f16",
+        "android_client_info": {
+          "package_name": "com.example.channapatnatoys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL8UYQje8UmjXfmNf7dVhkQmdEiZBOf2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
